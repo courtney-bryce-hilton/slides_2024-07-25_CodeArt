@@ -1,0 +1,217 @@
+---
+title: "how to accidentally improve your<br>coding skills by creating aRt"
+subtitle: "Coding for Psychology lunch hackathon"
+author: "-<br>Courtney B. Hilton"
+format:
+  revealjs:
+    theme: [default, styles.scss]
+    slide-number: true
+    template-partials:
+      - title-slide.html
+title-slide-attributes:
+  data-background-color: "#00467F"
+  data-background-size: contain
+date: 2024-07-25
+date-format: long
+title-logo: "./media/logos/auckland.png"
+---
+
+## generative aRt? {.center}
+
+## Danielle Navarro {.center}
+
+```{=html}
+<div style="border: 1px solid black; width: 90%; height: 45vh; margin: auto">
+  <iframe src="https://art.djnavarro.net/gallery/" style="width: 100%; height: 100%;" frameborder="0"></iframe>
+</div>
+```
+
+::: footer
+art.djnavarro.net/gallery/
+:::
+
+## Claus Wilke {.center}
+
+```{=html}
+<div style="border: 1px solid black; width: 90%; height: 45vh; margin: auto">
+  <iframe src="https://clauswilke.com/art/" style="width: 100%; height: 100%;" frameborder="0"></iframe>
+</div>
+```
+
+::: footer
+clauswilke.com/art/
+:::
+
+## Tyler Hobbs {.center}
+
+```{=html}
+<div style="border: 1px solid black; width: 90%; height: 45vh; margin: auto">
+  <iframe src="https://www.tylerxhobbs.com/works/categories/digital" style="width: 100%; height: 100%;" frameborder="0"></iframe>
+</div>
+```
+
+::: footer
+www.tylerxhobbs.com/works/categories/digital
+:::
+
+## Sol LeWitt {.center}
+
+::: center
+![](media/images/sol_lewitt.webp){width="40%"}
+:::
+
+## how does this relate to science? {.center}
+
+## accidental aRt 
+
+::: center
+![](media/images/accidental.png){width="30%"}
+:::
+
+
+## accidental aRt 
+
+::: center
+![](media/images/accidental_squiggle.jpg){width="50%"}
+:::
+
+## accidental aRt 
+
+::: center
+![](media/images/lime_dance.jpg){width="40%"}
+:::
+
+## deliberate aRt? {.center}
+
+
+## some aRt I made {.center}
+
+::: center
+![](media/images/eclipse5.png){width="50%"}
+:::
+
+## some aRt I made {.center}
+
+::: center
+![](media/images/rose5.png){width="50%"}
+:::
+
+## some aRt I made {.center}
+
+::: center
+![](media/images/rose6.png){width="50%"}
+:::
+
+## some aRt I made {.center}
+
+::: center
+![](media/images/rose8.png){width="50%"}
+:::
+
+## some aRt I made {.center}
+
+::: center
+![](media/images/spiral5.png){width="50%"}
+:::
+
+
+## some aRt I made {.center}
+
+::: center
+![](media/images/spiral21.png){width="50%"}
+:::
+
+## some aRt I made {.center}
+
+::: center
+![](media/images/cascade4.png){width="30%"}
+:::
+
+## some aRt I made {.center}
+
+::: center
+![](media/images/stained-glass7.png){width="50%"}
+:::
+
+## some aRt I made {.center}
+
+::: center
+![](media/images/almond1.png){width="50%"}
+:::
+
+## some aRt I made {.center}
+
+::: center
+![](media/images/almond2.png){width="50%"}
+:::
+
+## some aRt I made {.center}
+
+::: center
+![](media/images/cityscape2.png){width="50%"}
+:::
+
+## making aRt helped my science {.center}
+
+## aRtful figures {.center}
+
+::: center
+![](media/images/ids.png){width="60%"}
+:::
+
+## aRtful figures {.center}
+
+::: center
+![](media/images/kfc.png){width="60%"}
+:::
+
+## let's make some aRt! {.center}
+
+## some guiding principles
+
+::: incremental
+1. start simple and iterate
+
+2. be mindful of your process (don't rush)
+
+3. have fun / don't overthink it
+
+4. share the results!
+:::
+
+## exercise 1
+
+Create a piece of generative aRt that satisfies these conditions:
+
+- has 5 points / shapes
+- each has a different colour and size
+- has 1 line
+
+## exercise 1
+
+::: center
+![](viz/my_art.png){width="50%"}
+:::
+
+## exercise 2
+
+Create a piece of generative aRt that satisfies these conditions:
+
+- draws values randomly from a distribution
+- each has a different colour and size
+- has 1 line
+
+## exercise 2
+
+::: center
+![](viz/my_art2.png){width="50%"}
+:::
+
+
+
+
+```{=html}
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script type="text/javascript" src="zoomer.js"></script>
+<script type="text/javascript" src="audio_player.js"></script>
+```
